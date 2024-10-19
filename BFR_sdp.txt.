@@ -1,0 +1,5 @@
+1. one for loop in newday to change all the things that need to be changed daily (bred today and bear lives) and moving animal
+2. place baby adds to animals and river. death takes from num bears/fish and population and animals and river
+3. if two different animals land on the same tile then it goes to consume, death, and finally animal death
+4. bear starve takes a life, bear consume changes life to max lives, which only happens if the bear has eaten today
+5. collide before board drawn, animal or animals should be put in correct spot as well as checking for collision
